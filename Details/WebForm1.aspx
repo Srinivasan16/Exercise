@@ -75,7 +75,7 @@
         <option value="2">High School</option>
         <option value="3">Associate</option>
         <option value="4">Pre Bachelors</option>
-        <option value="5">Bachelors</option>
+        <option value="5">Bachelors degree</option>
         </select>
         <input type="button" value="ADD>>" /><input type="button" value="<<Remove"/>
         <select name="drop2" id="SelectedQualifiation" size="4" multiple="multiple">
